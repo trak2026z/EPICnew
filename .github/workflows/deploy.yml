@@ -31,7 +31,6 @@ jobs:
           REACT_APP_API_KEY: ${{ secrets.REACT_APP_API_KEY }}
 
       - name: Debug — show build folder content
-        if: always()
         run: ls -la ./build || echo "Build folder not found"
 
       - name: Deploy to GitHub Pages
