@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "exclude": ["copy-server.js", "node_modules"]
+}
