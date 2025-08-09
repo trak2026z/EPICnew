@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EPICnew/static/css/main.5267b7ef.css",
+    "main.js": "/EPICnew/static/js/main.fa5af1e5.js",
+    "index.html": "/EPICnew/index.html",
+    "main.5267b7ef.css.map": "/EPICnew/static/css/main.5267b7ef.css.map",
+    "main.fa5af1e5.js.map": "/EPICnew/static/js/main.fa5af1e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5267b7ef.css",
+    "static/js/main.fa5af1e5.js"
+  ]
+}
