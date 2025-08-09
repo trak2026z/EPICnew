@@ -15,7 +15,7 @@ const API_KEY = process.env.REACT_APP_API_KEY;
 
 function Root() {
   const [data, setData] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(true);// eslint-disable-line no-unused-vars
   const [selectedDate, setSelectedDate] = useState({});
   const [currentDisplayedDate, setCurrentDisplayedDate] = useState(
     JSON.parse(window.localStorage.getItem('currentDisplayedDate')) || {}
