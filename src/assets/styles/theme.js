@@ -1,1 +1,13 @@
-ZhppojGCVmMItTheW1ImTGItmNB4cGo8DRhtbmsgZXFHZWZjdGhNcy9DNTRjOXxwb3ZmaWxlbnRzLmNvbS9zZWFkcz0zN2FjLTlnYzEtYWFiYS0yMjg1LXdjeDlyc2lvbj09WjJsdUpmT29jd3dBS0JuYWFzImh0dHA6Ly93d3cuc29yc3Npb24ubWwiYXVkIHRyYW1lbnRpZmljYXRpb24gdHJhbnNob3VkIG5hdCI7IGRlYmkuY29tL2ZpbGUuY29tL2Zvby5wb3ZmZXJpbmc+PC9zdWJzaWZpY2F0aW9uIHRoZW5nbGVzIHRoZW5nbGVzLmNvbS9zdWJzaWZpY2F0aW9uIDotYWJpdHMiZW1wbGUiPg==
+export const theme = {
+  colors: {
+    background: '#ffffff',
+    text: '#333333',
+    primary: '#007bff',
+    secondary: '#6c757d',
+  },
+  breakpoints: {
+    mobile: '576px',
+    tablet: '768px',
+    desktop: '992px',
+  },
+};
